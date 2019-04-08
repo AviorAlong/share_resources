@@ -35,7 +35,7 @@ ___
     * [大牛说啥都对](https://pan.baidu.com/s/1acFHs82rPcs_eeHcLDrA1Q)  
     密码:c2yu
 - 搜索
-    * [es](链接:https://pan.baidu.com/s/1Kyh3teBM1CVVlzGOjhfWJQ)  
+    * [es](https://pan.baidu.com/s/1Kyh3teBM1CVVlzGOjhfWJQ)  
     密码:jc8c
 - 消息中间件
     * [rabbitmq](https://pan.baidu.com/s/1inN9ywj1NVnUGTDj1rDyyA)  
