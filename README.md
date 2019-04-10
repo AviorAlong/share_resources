@@ -42,5 +42,8 @@ ___
     密码:y6go
 - 前端 
     * [前端深似海](https://github.com/nieweidong/fetool)
+- 面试那些事
+    * [100offer面试总结](https://pan.baidu.com/s/1GjfE5Bi0lcdk8-14zk8WXQ )
+    密码:rhw2
 ___
 
