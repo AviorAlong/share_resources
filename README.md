@@ -45,5 +45,11 @@ ___
 - 面试那些事
     * [100offer面试总结](https://pan.baidu.com/s/1GjfE5Bi0lcdk8-14zk8WXQ )
     密码:rhw2
+- 代码管理工具
+    * [git](https://pan.baidu.com/s/1LJgYFGMOkr0yjfaZ9PiJMw)
+    密码:94ny 
+- 微服务
+    * [微服务管理工具](https://pan.baidu.com/s/1UbrxEaiwv6UanV8KYMou8Q )
+    密码:4orw
 ___
 
